@@ -1,5 +1,9 @@
+[<img src="https://lh4.googleusercontent.com/proxy/AUQExcmcPs0TYgBV275X0t2ryMKm0UGjq-FQDLcQL6Sr524hekc2U7UyjtG-nuNh9INX2xQW5ibU6yOMz9TXB1-Zf-AJfjtUnA" alt="Cloud and DevOps" style="width:100%;">](https://nithinkumarjangam.github.io/portfolio/)
+
 <h1 align="center">Hi 👋, I'm Jangam Nithin Kumar</h1>
 <h3 align="center">A passionate Cloud & DevOp's Architect from India</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cloud-computing-polygonal-wireframe-technology-concept_1017-29594.jpg?t=st=1721727009~exp=1721730609~hmac=1900abdef2398f7c652e2da1dcdb4fe66d4312f799b9eb6b0d6430512b93aa1f&w=900">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinkumarjangam&label=Profile%20views&color=0e75b6&style=flat" alt="nithinkumarjangam" /> </p>
 
@@ -11,17 +15,28 @@
 
 - 👨‍💻 All of my projects are available at [https://nithinkumarjangam.github.io/portfolio/](https://nithinkumarjangam.github.io/portfolio/)
 
-- 💬 Ask me about **Cloud & DevOp's & Linux, Jenkins, Docker**
+- 💬 Ask me about
+**- Cloud & DevOp's**
+**- AWS**
+**- MicroSoft Azure**    
+**- Linux**
+**- Jenkins**
+**- Docker**
+**- Kubernetes**
+**- Ansible**
+**- Maven**
+**- Git -Github**
+**- Python**
+         
+    
 
-- 📫 How to reach me **jangamnithin00@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/12bJvNPK3uWfpYYiddtKVboTaUCzlEZPe/edit?usp=sharing&ouid=106007080406950230417&rtpof=true&sd=true](https://docs.google.com/document/d/12bJvNPK3uWfpYYiddtKVboTaUCzlEZPe/edit?usp=sharing&ouid=106007080406950230417&rtpof=true&sd=true)
+- 📫 How to reach me :  **jangamnithin00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/nithin_jangam_95483718cac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nithin_jangam_95483718cac" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jangam-nithin-kumar-13466a2b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jangam-nithin-kumar-13466a2b5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/the_alphaboy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_alphaboy/" height="30" width="40" /></a>
+<a href="https://dev.to/nithin_jangam_95483718cac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nithin_jangam_95483718cac" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jangam-nithin-kumar-13466a2b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jangam-nithin-kumar-13466a2b5/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_alphaboy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_alphaboy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
